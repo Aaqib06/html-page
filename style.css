@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    margin:5px;
+    
+    padding: 200px;
+    border: 100px;
+    border-width: 30px;
+    border-left: 2px;
+    
+    background-image:url(aaqib/developer.jpg);
+    content: normal;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+ 
